@@ -1,5 +1,4 @@
 ﻿using Spectre.Console;
-using System.Diagnostics;
 using static Coding_Tracker.Enums;
 
 namespace Coding_Tracker.View

@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using static Coding_Tracker.Enums;
+﻿using static Coding_Tracker.Enums;
 
 namespace Coding_Tracker
 {
